@@ -1,4 +1,4 @@
-**No extra sensors needed | Usable for micro:bits,b.boards**
+**No extra sensors needed | Usable for micro:bits,b.boards | Possible to convert to Blocks and JavaScript**
 
 The first time you start the code, you have to calibrate it(Default). Tilt the board until all the lights turn on.
 
